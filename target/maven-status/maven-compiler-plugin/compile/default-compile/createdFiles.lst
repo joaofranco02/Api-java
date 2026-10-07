@@ -1,0 +1,15 @@
+com\biblioteca\dto\LivroRequestDTO$LivroRequestDTOBuilder.class
+com\biblioteca\dto\LivroResponseDTO.class
+com\biblioteca\exception\ErrorResponse.class
+com\biblioteca\exception\ErrorResponse$ErrorResponseBuilder.class
+com\biblioteca\repository\LivroRepository.class
+com\biblioteca\config\DataInitializer.class
+com\biblioteca\dto\LivroResponseDTO$LivroResponseDTOBuilder.class
+com\biblioteca\exception\GlobalExceptionHandler.class
+com\biblioteca\BibliotecaApplication.class
+com\biblioteca\model\Livro.class
+com\biblioteca\service\LivroService.class
+com\biblioteca\model\Livro$LivroBuilder.class
+com\biblioteca\controller\LivroController.class
+com\biblioteca\exception\ResourceNotFoundException.class
+com\biblioteca\dto\LivroRequestDTO.class
